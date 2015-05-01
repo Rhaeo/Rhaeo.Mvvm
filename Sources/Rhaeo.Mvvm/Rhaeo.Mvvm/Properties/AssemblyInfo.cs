@@ -7,11 +7,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Rhaeo.Mvvm")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Very lightweight MVVM Nuget package with essentials for Windows Universal applications.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Rhaeo")]
 [assembly: AssemblyProduct("Rhaeo.Mvvm")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCopyright("Copyright © Tomáš Hübelbauer 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: NeutralResourcesLanguage("en")]
