@@ -86,7 +86,7 @@ namespace Rhaeo.Mvvm.Tests.ViewModels
         }
 
         this.firstName = value;
-        this.RaisePropertyChanged<TestViewModel, String>(testViewModel => testViewModel.FirstName);
+        this.RaisePropertyChanged(testViewModel => testViewModel.FirstName);
       }
     }
 
@@ -108,7 +108,7 @@ namespace Rhaeo.Mvvm.Tests.ViewModels
         }
 
         this.lastName = value;
-        this.RaisePropertyChanged<TestViewModel, String>(testViewModel => testViewModel.LastName);
+        this.RaisePropertyChanged(testViewModel => testViewModel.LastName);
 
       }
     }
@@ -131,7 +131,7 @@ namespace Rhaeo.Mvvm.Tests.ViewModels
         }
 
         this.bithDateAndTime = value;
-        this.RaisePropertyChanged<TestViewModel, DateTime>(testViewModel => testViewModel.BirthDateAndTime);
+        this.RaisePropertyChanged(testViewModel => testViewModel.BirthDateAndTime);
       }
     }
 
