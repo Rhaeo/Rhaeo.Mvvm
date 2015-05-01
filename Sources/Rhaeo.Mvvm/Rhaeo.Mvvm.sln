@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhaeo.Mvvm", "Rhaeo.Mvvm\Rh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhaeo.Mvvm.Tests", "Rhaeo.Mvvm.Tests\Rhaeo.Mvvm.Tests.csproj", "{2288DEB3-811C-44AD-9743-DF40332AC969}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhaeo.Mvvm.Nuget", "Rhaeo.Mvvm.Nuget\Rhaeo.Mvvm.Nuget.csproj", "{0451BAEF-DF2E-4B98-8644-94EE9415E389}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,16 @@ Global
 		{2288DEB3-811C-44AD-9743-DF40332AC969}.Release|x86.ActiveCfg = Release|x86
 		{2288DEB3-811C-44AD-9743-DF40332AC969}.Release|x86.Build.0 = Release|x86
 		{2288DEB3-811C-44AD-9743-DF40332AC969}.Release|x86.Deploy.0 = Release|x86
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Release|ARM.ActiveCfg = Release|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Release|x64.ActiveCfg = Release|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
